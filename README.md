@@ -42,6 +42,6 @@ Three part project:
 Langauge: Python, MATLAB, Tags: CAT-modelling, probabilistic-assessment, risk-assessment, monte-carlo-analysis, natural-disasters
 
 
-
-
+_________________
+###### Access to listed projects is available on request as due to University requirements projects are not yet public. Please message me on LinkedIn for access
 
