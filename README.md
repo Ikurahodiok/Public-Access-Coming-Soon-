@@ -45,5 +45,5 @@ Langauge: Python, MATLAB, Tags: CAT-modelling, probabilistic-assessment, risk-as
 
 
 _________________
-###### Please message me on (LinkedIn)[https://www.linkedin.com/in/christopher-harry-koido-bunt-89063310a/] for access
+###### Please message me on [LinkedIn](https://www.linkedin.com/in/christopher-harry-koido-bunt-89063310a/) for access
 
