@@ -1,5 +1,5 @@
 # Projects at UCL
-###### Access to listed projects is available on request as due to University requirements projects are not yet public. Please message me on LinkedIn for access
+###### Access to listed projects is available on request as due to University requirements projects are not yet public. Please message me on [LinkedIn](https://www.linkedin.com/in/christopher-harry-koido-bunt-89063310a/) for access
 _________________
 
 ###### Ikurahodiok/Interactive spatial quiz map application (module: Web and Mobile GIS)
