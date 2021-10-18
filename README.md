@@ -4,7 +4,9 @@ _________________
 
 ### Ikurahodiok/Quiz-map-app (module: Web and Mobile GIS)
 ### Ikurahodiok/Quiz-map-api (module: Web and Mobile GIS)
-The development of a web map application with user (mobile device, -app) and admin (computer device, -api) modes within the same app. Admin mode allows questions to be set by the admin on a map, stored in a PostgreSQL database. In user mode these questions are then retrieved from the database according to criteria (closest Q, unanswered Q's, top5 hardest Q's, etc) and the user can answer them and send their responses back to another database where their scores are stored. This app also features dashboard capabilities of retrieving and plotting performance scores which change with the use and user-performance. Language: Javascript, HTML/CSS, PostgreSQL, Tags: web-map-application, front-end, back-end, client-side, server-side, restful-API, node, dashboard, mobile-app
+The development of a web map application with user (mobile device, -app) and admin (computer device, -api) modes within the same app. Admin mode allows questions to be set by the admin on a map, stored in a PostgreSQL database. In user mode these questions are then retrieved from the database according to criteria (closest Q, unanswered Q's, top5 hardest Q's, etc) and the user can answer them and send their responses back to another database where their scores are stored. This app also features dashboard capabilities of retrieving and plotting performance scores which change with the use and user-performance.\
+\
+Language: Javascript, HTML/CSS, PostgreSQL, Tags: web-map-application, front-end, back-end, client-side, server-side, restful-API, node, dashboard, mobile-app
 
 
 
