@@ -1,27 +1,23 @@
 # Projects at UCL
 ###### Access to listed projects is available on request as due to University requirements projects are not yet public. Please message me on [LinkedIn](https://www.linkedin.com/in/christopher-harry-koido-bunt-89063310a/) for access
-_________________
-\
+_________________\
 ### Ikurahodiok/Quiz-map-app (module: Web and Mobile GIS)
 ### Ikurahodiok/Quiz-map-api (module: Web and Mobile GIS)
 The development of a web map application with user (mobile device, -app) and admin (computer device, -api) modes within the same app. Admin mode allows questions to be set by the admin on a map, stored in a PostgreSQL database. In user mode these questions are then retrieved from the database according to criteria (closest Q, unanswered Q's, top5 hardest Q's, etc) and the user can answer them and send their responses back to another database where their scores are stored. This app also features dashboard capabilities of retrieving and plotting performance scores which change with the use and user-performance.\
 \
 Language: Javascript, HTML/CSS, PostgreSQL, Tags: web-map-application, front-end, back-end, client-side, server-side, restful-API, node, dashboard, mobile-app
-\
-\
+\\
 ### Ikurahodiok/Rice-Grain-Supervised-Classification-Task (module: Machine Learning for Data Science)
 
 A comparison of 5 learning algorithms in a supervised classification task for an agri-tech setting. \
 \
 Language: Python, Tags: neural-network, multi-layer perceptron, naive-bayes-classifier, decision-trees, knn-classifier, ensemble-voting, instance-based-learning, scikit-learn  
-\
-\ 
+\\ 
 ### Ikurahodiok/Taxi-Demand-Forecast-STA (module: Spatio-Temporal Analysis and Data Mining)
 Spatio-Temporal Analysis (STA) forecasting of taxi pickup requests per road in Porto City Centre. Using statistical (ST-/ARIMA) and ML (ST-SVM) methods.\
 \
 Language: R, Tags: tmap, arima-forecasting, svm-regressor, spatio-temporal-arima, spatio-temporal-autocorrelation.
-\  
-\ 
+\\ 
 ### Ikurahodiok/Route-Finder-to-High-Ground (module: Geospatial Programming)
   
 Route finding exercise on the Isle of Wight. Given an input start location this program finds the shortest path to the local high point (<5km) along a road network. Plot route and travel times with ascent impedance (DEM and Naismith's-rule).\
