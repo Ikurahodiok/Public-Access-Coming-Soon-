@@ -9,7 +9,7 @@ The development of a web map application with user (mobile device, -app) and adm
 ### Ikurahodiok/Rice-Grain-Supervised-Classification-Task (module: Machine Learning for Data Science)
 A comparison of 5 learning algorithms in a supervised classification task for an agri-tech setting. <br/>
 <br/>
-**Language**: Python, **Tags**: neural-network, multi-layer perceptron, naive-bayes-classifier, decision-trees, knn-classifier, ensemble-voting, instance-based-learning, scikit-learn <br/>  
+**Language**: Python, **Tags**: neural-network, multi-layer perceptron, naive-bayes-classifier, decision-trees, knn-classifier, ensemble-voting, instance-based-learning, scikit-learn 
 <br/>
 ### Ikurahodiok/Taxi-Demand-Forecast-STA (module: Spatio-Temporal Analysis and Data Mining)
 Spatio-Temporal Analysis (STA) forecasting of taxi pickup requests per road in Porto City Centre. Using statistical (ST-/ARIMA) and ML (ST-SVM) methods. <br/>
