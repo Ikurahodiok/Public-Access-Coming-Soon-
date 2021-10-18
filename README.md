@@ -37,8 +37,7 @@ The novel approach in this project was comparing the difference upon the analysi
 Three part project: <br/>
 1) Ground Shaking Module: A group project using Matlab to undertake Monte-Carlo analyses of random possible earthquake events and using ground-motion-prediction-equations to translate them to experienced shaking to a building. <br/>
 2) Damage Module: A solo project, when given a level of ground shaking, calculating probabilities of damage severity (by exceeding different damage states) through the HAZUS building damage framework. <br/>
-3) Cost Module. A solo project, given a level of ground shaking, calcuating the damage and cost to a single building through the FEMA p-58 Earthquake Hazard Framework <br/>
-<br/>
+3) Cost Module. A solo project, given a level of ground shaking, calcuating the damage and cost to a single building through the FEMA p-58 Earthquake Hazard Framework. <br/>
 
 **Language**: Python, MATLAB, **Tags**: CAT-modelling, probabilistic-assessment, risk-assessment, monte-carlo-analysis, natural-disasters
 <br/>
