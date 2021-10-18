@@ -29,7 +29,7 @@ Solving PiP problem via Ray Casting without libraries. OOP in creating cascading
 <br/>
 ### Ikurahodiok/London-Burglaries-Spatial-Regression   (module: Spatial Analysis and Geo-Computation)
 A classical quantitative human geography/environmental criminology project using demongraphic explanatory variales (Indices of Multiple Deprivation 2019) to examine correlation with burglaries in the Greater London Area. Use of fixed-effects and mixed-effects regression models (Spatial Durbin-, Spatial Error-, Spatial Lag-, Geographically Weighted- regression models). <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 The novel approach in this project was comparing the difference upon the analysis by aggregating point crime data to different spatial units of analysis. Burglaries when analysed at; Point ('raw' data), Line (Road/Footpath), Polygon1 (LSOA), Polygon2 (hexagonal grids) scales.  <br/>
 <br/>
 **Language**: R, **Tags**: crime, demographics, mixed-effects models
