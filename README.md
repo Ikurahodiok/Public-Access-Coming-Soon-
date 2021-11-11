@@ -36,6 +36,7 @@ The novel approach in this project was comparing the difference upon the analysi
 <br/>
 **Language**: R, **Tags**: crime, demographics, mixed-effects models
 <br/>
+<br/>
 ### Ikurahodiok/Probabilistic-Seizmic-Hazard-Assessments-(Risk-Damage-Cost)   (module: Catastrophe Risk Modelling)
 Three part project: <br/>
 1) Ground Shaking Module: A group project using Matlab to undertake Monte-Carlo analyses of random possible earthquake events and using ground-motion-prediction-equations to translate them to experienced shaking to a building. <br/>
